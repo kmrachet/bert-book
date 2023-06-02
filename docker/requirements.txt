@@ -2,3 +2,4 @@ transformers
 fugashi
 ipadic
 jupyterlab
+ipywidgets
