@@ -4,4 +4,4 @@ ipadic
 jupyterlab
 ipywidgets
 pytorch-lightning
-sklearn
+scikit-learn
