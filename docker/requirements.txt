@@ -1,7 +1,6 @@
 transformers
 fugashi
 ipadic
-jupyterlab
 ipywidgets
 pytorch-lightning
-scikit-learn
+optuna
